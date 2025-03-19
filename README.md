@@ -75,7 +75,7 @@ Mês mais chuvoso: 05/2014, Precipitação: 320.4 mm
 
 O código pode gerar um gráfico da média de temperatura mínima de um determinado mês ao longo dos anos:
 
-![Gráfico de Temperatura Mínima](exemplo_grafico.png)
+![Gráfico de Temperatura Mínima](Figure_1.png)
 
 ---
 
