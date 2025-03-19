@@ -2,9 +2,13 @@
 
 Este repositório contém um código Python para leitura, análise e visualização de dados climáticos. Ele permite a inspeção de intervalos de tempo específicos, cálculo de médias de temperatura e identificação do mês mais chuvoso, além de gerar gráficos para auxiliar na interpretação dos dados.
 
+This repository contains Python code for reading, analyzing, and visualizing climate data. It allows inspection of specific time intervals, calculation of temperature averages, and identification of the rainiest month, as well as generating graphs to assist in data interpretation.
+
 ## Dados Utilizados
 
 O código utiliza um arquivo CSV contendo informações climáticas, que devem seguir o formato abaixo:
+
+The code uses a CSV file containing climate data, which should follow the format below:
 
 ```csv
 data,precip,maxima,minima,horas_insol,temp_media,um_relativa,vel_vento
@@ -78,6 +82,14 @@ O código pode gerar um gráfico da média de temperatura mínima de um determin
 ![Gráfico de Temperatura Mínima](Figure_1.png)
 
 ---
+
+## 📄 Licença
+
+Este projeto está sob a MIT License.
+
+This project is licensed under the MIT License.
+
+### MIT License
 
 
 
